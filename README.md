@@ -2,10 +2,10 @@ Project Name: Neoam
 An roam-like system where you can create links within notes and view backlinks.
 
 Story
-[] I create a note in a specified directory
-[] I search for a specific note
-[] I insert a link in a note to another note
-[] I open a link to another note
+- [] I create a note in a specified directory
+- [] I search for a specific note
+- [] I insert a link in a note to another note
+- [] I open a link to another note
 
 Basic Game Loops
 1. I work on a project or start studying a subject
